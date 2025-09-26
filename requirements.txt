@@ -1,0 +1,9 @@
+streamlit==1.49.1
+pandas==2.3.2
+numpy==1.26.4
+altair==5.5.0
+scikit-learn==1.7.1
+matplotlib==3.10.6
+statsmodels==0.14.5
+scipy==1.16.1
+groq==0.31.1
